@@ -8,8 +8,7 @@ branding:
 inputs:
   publiccode:
     description: 'publiccode.yml path'
-    required: true
-    default: 'publiccode.yml'
+    required: false
   comment-on-pr:
     description: 'publiccode.yml path'
     required: false

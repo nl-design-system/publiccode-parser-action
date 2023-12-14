@@ -1,0 +1,47 @@
+publiccodeYmlVersion: "0.3"
+
+name: publiccode.yml validator GitHub Action
+url: "https://github.com/nl-design-system/publiccode-parser-action.git"
+softwareVersion: "dev" # Optional
+releaseDate: "2023-12-14"
+platforms:
+  - web
+
+categories:
+  - it-development
+
+developmentStatus: development
+
+softwareType: "standalone/desktop"
+
+description:
+  en:
+    localisedName: publiccode.yml validator GitHub Action
+    shortDescription: >
+      Make sure your publiccode.yml is valid.
+
+    longDescription: >
+      Make sure your publiccode.yml is valid.
+      Make sure your publiccode.yml is valid.
+      Make sure your publiccode.yml is valid.
+      Make sure your publiccode.yml is valid.
+      Make sure your publiccode.yml is valid.
+      Make sure your publiccode.yml is valid.
+
+    features:
+      - Validate one publicccode.yml
+      - Validate each publiccode.yml in your repository
+
+legal:
+  license: EUPL-1.2
+
+maintenance:
+  type: "community"
+
+  contacts:
+    - name: Robbert Broersma
+
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - en
